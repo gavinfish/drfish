@@ -1,0 +1,12 @@
+*~
+.DS_Store
+.ropeproject
+.idea
+*.properties
+.vscode
+.classpath
+.project
+.settings
+*.tof
+*.jfr
+Test.java

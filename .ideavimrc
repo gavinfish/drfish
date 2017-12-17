@@ -1,0 +1,4 @@
+set so = 5
+inoremap jj <Esc>
+inoremap jk <Esc>
+inoremap kk <Esc>

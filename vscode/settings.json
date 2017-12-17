@@ -1,0 +1,19 @@
+{
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j","k"],
+            "after": ["<Esc>"]
+        },
+        {
+            "before": ["j","j"],
+            "after": ["<Esc>"]
+        },
+        {
+            "before": ["k","k"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.disableAnnoyingNeovimMessage": true,
+    "editor.codeLens": false
+}

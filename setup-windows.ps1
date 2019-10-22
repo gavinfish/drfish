@@ -12,3 +12,4 @@ choco install goland --yes
 choco install wechat --yes
 choco install conemu --yes
 choco install adobereader --yes
+choco install postman --yes

@@ -5,6 +5,7 @@ choco install git --yes
 choco install golang --yes
 choco install jdk8 --yes
 choco install python --yes
+choco install docker-desktop --yes
 choco install maven --yes
 choco install sourcetree --yes
 choco install intellijidea-community --yes

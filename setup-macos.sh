@@ -13,10 +13,12 @@ brew cask install neteasemusic
 brew cask install qq
 brew cask install sourcetree
 brew cask install adoptopenjdk8
+brew cask install vlc
 
 brew install maven
 brew install go
 brew install jq
+brew install kubectl
 
 # install GNU Command Line Tools
 brew install coreutils

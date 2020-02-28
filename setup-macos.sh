@@ -14,11 +14,14 @@ brew cask install qq
 brew cask install sourcetree
 brew cask install adoptopenjdk8
 brew cask install vlc
+brew cask install webstorm
+brew cask install slack
 
 brew install maven
 brew install go
 brew install jq
 brew install kubectl
+brew install minikube
 
 # install GNU Command Line Tools
 brew install coreutils
